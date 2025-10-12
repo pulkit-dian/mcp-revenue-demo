@@ -1,0 +1,9 @@
+[MASTER]
+ignore=.venv
+load-plugins=pylint_pydantic
+
+[FORMAT]
+max-line-length=88
+
+[MESSAGES CONTROL]
+disable=C0301
